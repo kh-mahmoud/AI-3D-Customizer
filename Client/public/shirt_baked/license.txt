@@ -1,0 +1,11 @@
+Model Information:
+* title:	shirt_baked
+* source:	https://sketchfab.com/3d-models/shirt-baked-803c1f1527824c3baf62693b9afc4e13
+* author:	ttv.thuyvy (https://sketchfab.com/ttv.thuyvy)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "shirt_baked" (https://sketchfab.com/3d-models/shirt-baked-803c1f1527824c3baf62693b9afc4e13) by ttv.thuyvy (https://sketchfab.com/ttv.thuyvy) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
