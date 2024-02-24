@@ -3,16 +3,17 @@
 
 import express from 'express';
 import { Configuration, OpenAIApi } from 'openai';
+import dotenv from "dotenv"
 
 
 
-
+dotenv.config()
 
 
 const router = express.Router();
 
 const config = new Configuration({
-  apiKey:"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",
+  apiKey:process.env.OPENAI_API_KEY,
 });
 
 const openai = new OpenAIApi(config) 
