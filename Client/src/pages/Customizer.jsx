@@ -84,7 +84,7 @@ const Customizer = () => {
 
       try {
          setGeratingImg(true)
-         const {data} = await axios.post("http://localhost:3000/api/v1/dalle",{prompt},{headers:{
+         const {data} = await axios.post("https://ai-3d-customizer.onrender.com/api/v1/dalle",{prompt},{headers:{
             "Content-Type":"application/json",
          }})
 
